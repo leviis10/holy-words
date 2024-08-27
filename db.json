@@ -1,0 +1,202 @@
+{
+  "categories": ["fear", "sadness", "anger", "anxiety", "envy", "joy"],
+  "version": [
+    "alkitab-terjemahan-baru",
+    "king-james-version",
+    "new-international-version"
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "title": {
+        "alkitab-terjemahan-baru": "2 Timotius",
+        "king-james-version": "2 Timothy",
+        "new-international-version": "2 Timothy"
+      },
+      "verse": 7,
+      "chapter": 1,
+      "category": "fear",
+      "content": {
+        "alkitab-terjemahan-baru": "Sebab Allah memberikan kepada kita bukan roh ketakutan, melainkan roh yang membangkitkan kekuatan, kasih dan ketertiban.",
+        "king-james-version": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+        "new-international-version": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline."
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "alkitab-terjemahan-baru": "Yesaya",
+        "king-james-version": "Isaiah",
+        "new-international-version": "Isaiah"
+      },
+      "verse": 10,
+      "chapter": 41,
+      "category": "fear",
+      "content": {
+        "alkitab-terjemahan-baru": "Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan.",
+        "king-james-version": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+        "new-international-version": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "alkitab-terjemahan-baru": "Matius",
+        "king-james-version": "Matthew",
+        "new-international-version": "Matthew"
+      },
+      "verse": 28,
+      "chapter": 11,
+      "category": "sadness",
+      "content": {
+        "alkitab-terjemahan-baru": "Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu.",
+        "king-james-version": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+        "new-international-version": "Come to me, all you who are weary and burdened, and I will give you rest."
+      }
+    },
+    {
+      "id": 4,
+      "title": {
+        "alkitab-terjemahan-baru": "Mazmur",
+        "king-james-version": "Psalms",
+        "new-international-version": "Psalms"
+      },
+      "verse": 4,
+      "chapter": 34,
+      "category": "sadness",
+      "content": {
+        "alkitab-terjemahan-baru": "Aku telah mencari Tuhan, lalu Ia menjawab aku, dan melepaskan aku dari segala kegentaranku.",
+        "king-james-version": "I sought the Lord, and he heard me, and delivered me from all my fears.",
+        "new-international-version": "I sought the Lord, and he answered me; he delivered me from all my fears."
+      }
+    },
+    {
+      "id": 5,
+      "title": {
+        "alkitab-terjemahan-baru": "Efesus",
+        "king-james-version": "Ephesians",
+        "new-international-version": "Ephesians"
+      },
+      "verse": 26,
+      "chapter": 4,
+      "category": "anger",
+      "content": {
+        "alkitab-terjemahan-baru": "Apabila kamu menjadi marah, janganlah kamu berbuat dosa: janganlah matahari terbenam, sebelum padam amarahmu.",
+        "king-james-version": "Be ye angry, and sin not: let not the sun go down upon your wrath.",
+        "new-international-version": "In your anger do not sin: Do not let the sun go down while you are still angry."
+      }
+    },
+    {
+      "id": 6,
+      "title": {
+        "alkitab-terjemahan-baru": "Amsal",
+        "king-james-version": "Proverbs",
+        "new-international-version": "Proverbs"
+      },
+      "verse": 29,
+      "chapter": 22,
+      "category": "anger",
+      "content": {
+        "alkitab-terjemahan-baru": "Orang yang sabar besar pengertiannya, tetapi siapa cepat marah membesarkan kebodohan.",
+        "king-james-version": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.",
+        "new-international-version": "Whoever is patient has great understanding, but one who is quick-tempered displays folly."
+      }
+    },
+    {
+      "id": 7,
+      "title": {
+        "alkitab-terjemahan-baru": "Filipi",
+        "king-james-version": "Philippians",
+        "new-international-version": "Philippians"
+      },
+      "verse": 6,
+      "chapter": 4,
+      "category": "anxiety",
+      "content": {
+        "alkitab-terjemahan-baru": "Janganlah hendaknya kamu khawatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur.",
+        "king-james-version": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+        "new-international-version": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
+      }
+    },
+    {
+      "id": 8,
+      "title": {
+        "alkitab-terjemahan-baru": "1 Petrus",
+        "king-james-version": "1 Peter",
+        "new-international-version": "1 Peter"
+      },
+      "verse": 7,
+      "chapter": 5,
+      "category": "anxiety",
+      "content": {
+        "alkitab-terjemahan-baru": "Serahkanlah segala kekuatiranmu kepada-Nya, sebab Ia yang memelihara kamu.",
+        "king-james-version": "Casting all your care upon him; for he careth for you.",
+        "new-international-version": "Cast all your anxiety on him because he cares for you."
+      }
+    },
+    {
+      "id": 9,
+      "title": {
+        "alkitab-terjemahan-baru": "1 Korintus",
+        "king-james-version": "1 Corinthians",
+        "new-international-version": "1 Corinthians"
+      },
+      "verse": 4,
+      "chapter": 13,
+      "category": "envy",
+      "content": {
+        "alkitab-terjemahan-baru": "Kasih itu sabar; kasih itu murah hati; ia tidak cemburu. Ia tidak memegahkan diri dan tidak sombong.",
+        "king-james-version": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.",
+        "new-international-version": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud."
+      }
+    },
+    {
+      "id": 10,
+      "title": {
+        "alkitab-terjemahan-baru": "Amsal",
+        "king-james-version": "Proverbs",
+        "new-international-version": "Proverbs"
+      },
+      "verse": 30,
+      "chapter": 14,
+      "category": "envy",
+      "content": {
+        "alkitab-terjemahan-baru": "Hati yang tenang menyegarkan tubuh, tetapi iri hati membusukkan tulang.",
+        "king-james-version": "A sound heart is the life of the flesh: but envy the rottenness of the bones.",
+        "new-international-version": "A heart at peace gives life to the body, but envy rots the bones."
+      }
+    },
+    {
+      "id": 11,
+      "title": {
+        "alkitab-terjemahan-baru": "Roma",
+        "king-james-version": "Romans",
+        "new-international-version": "Romans"
+      },
+      "verse": 12,
+      "chapter": 12,
+      "category": "joy",
+      "content": {
+        "alkitab-terjemahan-baru": "Bersukacitalah dalam pengharapan, sabarlah dalam kesesakan, dan bertekunlah dalam doa!",
+        "king-james-version": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+        "new-international-version": "Be joyful in hope, patient in affliction, faithful in prayer."
+      }
+    },
+    {
+      "id": 12,
+      "title": {
+        "alkitab-terjemahan-baru": "Mazmur",
+        "king-james-version": "Psalms",
+        "new-international-version": "Psalms"
+      },
+      "verse": 11,
+      "chapter": 16,
+      "category": "joy",
+      "content": {
+        "alkitab-terjemahan-baru": "Engkau memberitahukan kepadaku jalan kehidupan; di hadapan-Mu ada sukacita berlimpah-limpah, di tangan kanan-Mu ada nikmat senantiasa.",
+        "king-james-version": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.",
+        "new-international-version": "You make known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right hand."
+      }
+    }
+  ]
+}
