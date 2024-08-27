@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "watch-server": "json-server --watch db.json --routes routes.json",
     "watch-client": "vite",
-    "dev": "concurrently \"npm:watch-*\""
+    "dev": "concurrently \"npm run watch-server\" \"npm run watch-client\""
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.7",
