@@ -25,16 +25,7 @@ function Navbar() {
               Home
             </NavLink>
           </li>
-          <li>
-            <NavLink
-              className={({ isActive }) =>
-                isActive ? getActiveStyle() : getListStyle()
-              }
-              to="/quotes"
-            >
-              Quotes
-            </NavLink>
-          </li>
+          <li></li>
           <li>
             <NavLink
               className={({ isActive }) =>

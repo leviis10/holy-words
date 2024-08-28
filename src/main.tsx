@@ -8,7 +8,6 @@ import Layout from "./components/ui/Layout";
 import "./index.css";
 import store from "./store";
 
-const HomePage = React.lazy(() => import("./pages/HomePage"));
 const Usage = React.lazy(() => import("./pages/Usage"));
 const QuotesPage = React.lazy(() => import("./pages/QuotesPage"));
 
@@ -19,10 +18,6 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <HomePage />,
-      },
-      {
-        path: "quotes",
         element: <QuotesPage />,
       },
       {
